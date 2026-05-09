@@ -1,0 +1,205 @@
+Ticker,Category,Fiscal Year,Ratio,Value
+AMD,Profitability,2024,Net Profit Margin,0.06364165212332752
+AMD,Profitability,2023,Net Profit Margin,0.03765432098765432
+AMD,Profitability,2022,Net Profit Margin,0.005592983348163214
+AMD,Profitability,2021,Net Profit Margin,0.1924059875867105
+AMD,Profitability,2024,Gross Margin,0.4743455497382199
+AMD,Profitability,2023,Gross Margin,0.4849647266313933
+AMD,Profitability,2022,Gross Margin,0.5431549510613957
+AMD,Profitability,2021,Gross Margin,0.5282949981745162
+AMD,Profitability,2024,Operating Margin,0.08563118091913903
+AMD,Profitability,2023,Operating Margin,0.1169753086419753
+AMD,Profitability,2022,Operating Margin,0.1741451633405364
+AMD,Profitability,2021,Operating Margin,0.2199707922599489
+AMD,Profitability,2024,EBITDA Margin,0.1596276905177429
+AMD,Profitability,2023,EBITDA Margin,0.1837301587301587
+AMD,Profitability,2022,EBITDA Margin,0.2292699461887208
+AMD,Profitability,2021,EBITDA Margin,0.2673116709261287
+AMD,Profitability,2024,R&D % of Revenue,0.2851270118285825
+AMD,Profitability,2023,R&D % of Revenue,0.2588183421516755
+AMD,Profitability,2022,R&D % of Revenue,0.2254989195373077
+AMD,Profitability,2021,R&D % of Revenue,0.1731167092612876
+AMD,Profitability,2024,Effective Tax Rate,
+AMD,Profitability,2023,Effective Tax Rate,
+AMD,Profitability,2022,Effective Tax Rate,
+AMD,Profitability,2021,Effective Tax Rate,
+AMD,Profitability,2024,Diluted EPS,1.02e-06
+AMD,Profitability,2023,Diluted EPS,5.3e-07
+AMD,Profitability,2022,Diluted EPS,8.4e-07
+AMD,Profitability,2021,Diluted EPS,2.57e-06
+AMD,Profitability,2024,ROA,0.0273430503080467
+AMD,Profitability,2023,ROA,0.01422971661369402
+AMD,Profitability,2022,ROA,0.002199440975418748
+AMD,Profitability,2021,ROA,0.05268660882025818
+AMD,Profitability,2024,ROE,0.03496455071830738
+AMD,Profitability,2023,ROE,0.01819605503560908
+AMD,Profitability,2022,ROE,0.002812504993794378
+AMD,Profitability,2021,ROE,0.06737227871498351
+AMD,Liquidity,2024,Current Ratio,3.121980064200034
+AMD,Liquidity,2023,Current Ratio,2.653374233128834
+AMD,Liquidity,2022,Current Ratio,1.506998444790047
+AMD,Liquidity,2021,Current Ratio,1.935696821515893
+AMD,Liquidity,2024,Quick Ratio,2.535563439770232
+AMD,Liquidity,2023,Quick Ratio,2.09038854805726
+AMD,Liquidity,2022,Quick Ratio,1.18452566096423
+AMD,Liquidity,2021,Quick Ratio,1.642665036674817
+AMD,Liquidity,2024,Cash Ratio,0.3283493833417807
+AMD,Liquidity,2023,Cash Ratio,0.5899795501022495
+AMD,Liquidity,2022,Cash Ratio,0.4587869362363919
+AMD,Liquidity,2021,Cash Ratio,0.4513447432762836
+AMD,Leverage,2024,Debt-to-Equity,0.1670276774969916
+AMD,Leverage,2023,Debt-to-Equity,0.2644320297951583
+AMD,Leverage,2022,Debt-to-Equity,0.3371895605480317
+AMD,Leverage,2021,Debt-to-Equity,0.4495219961124995
+AMD,Leverage,2024,Debt Ratio,0.1431222932563415
+AMD,Leverage,2023,Debt Ratio,0.2091310751104566
+AMD,Leverage,2022,Debt Ratio,0.2521628724126731
+AMD,Leverage,2021,Debt Ratio,0.3101174023699406
+AMD,Leverage,2024,LT Debt-to-Equity,0.02470345538937597
+AMD,Leverage,2023,LT Debt-to-Equity,0.03245810055865922
+AMD,Leverage,2022,LT Debt-to-Equity,0.04919650965372922
+AMD,Leverage,2021,LT Debt-to-Equity,0.04407156174382165
+AMD,Leverage,2024,Equity Ratio,0.8568777067436585
+AMD,Leverage,2023,Equity Ratio,0.7908689248895434
+AMD,Leverage,2022,Equity Ratio,0.7478371275873269
+AMD,Leverage,2021,Equity Ratio,0.6898825976300594
+AMD,Efficiency,2024,Asset Turnover,0.3798279468520755
+AMD,Efficiency,2023,Asset Turnover,0.334020618556701
+AMD,Efficiency,2022,Asset Turnover,0.3484365311365046
+AMD,Efficiency,2021,Asset Turnover,0.4497413863878931
+NVDA,Profitability,2025,Net Profit Margin,0.5585415756684061
+NVDA,Profitability,2024,Net Profit Margin,0.4884934834706674
+NVDA,Profitability,2023,Net Profit Margin,0.2993623489285979
+NVDA,Profitability,2022,Net Profit Margin,0.3486661217210374
+NVDA,Profitability,2025,Gross Margin,0.7676958090990598
+NVDA,Profitability,2024,Gross Margin,0.7271264896096649
+NVDA,Profitability,2023,Gross Margin,0.5765552013049603
+NVDA,Profitability,2022,Gross Margin,0.6494761090882069
+NVDA,Profitability,2025,Operating Margin,0.6151405779443205
+NVDA,Profitability,2024,Operating Margin,0.5436788024030728
+NVDA,Profitability,2023,Operating Margin,0.2232149477274412
+NVDA,Profitability,2022,Operating Margin,0.340454781897897
+NVDA,Profitability,2025,EBITDA Margin,0.6691188303179384
+NVDA,Profitability,2024,EBITDA Margin,0.6332359410393618
+NVDA,Profitability,2023,EBITDA Margin,0.3830355156817676
+NVDA,Profitability,2022,EBITDA Margin,0.4295905476703574
+NVDA,Profitability,2025,R&D % of Revenue,0.1424860341617049
+NVDA,Profitability,2024,R&D % of Revenue,0.1423951938544368
+NVDA,Profitability,2023,R&D % of Revenue,0.2718914510269148
+NVDA,Profitability,2022,R&D % of Revenue,0.1926506650813703
+NVDA,Profitability,2025,Effective Tax Rate,
+NVDA,Profitability,2024,Effective Tax Rate,
+NVDA,Profitability,2023,Effective Tax Rate,
+NVDA,Profitability,2022,Effective Tax Rate,
+NVDA,Profitability,2025,Diluted EPS,2.94e-06
+NVDA,Profitability,2024,Diluted EPS,1.2e-06
+NVDA,Profitability,2023,Diluted EPS,3.2e-07
+NVDA,Profitability,2022,Diluted EPS,3.7e-07
+NVDA,Profitability,2025,ROA,1.057366882575236
+NVDA,Profitability,2024,ROA,0.431720426207867
+NVDA,Profitability,2023,ROA,0.1171418831192381
+NVDA,Profitability,2022,ROA,0.1361311989090936
+NVDA,Profitability,2025,ROE,1.808388433340363
+NVDA,Profitability,2024,ROE,0.7383607696220119
+NVDA,Profitability,2023,ROE,0.2003448660852737
+NVDA,Profitability,2022,ROE,0.2328218233243602
+NVDA,Liquidity,2025,Current Ratio,3.458882611424984
+NVDA,Liquidity,2024,Current Ratio,4.329919770399844
+NVDA,Liquidity,2023,Current Ratio,3.206923795159089
+NVDA,Liquidity,2022,Current Ratio,3.038308886971527
+NVDA,Liquidity,2025,Quick Ratio,3.141682360326428
+NVDA,Liquidity,2024,Quick Ratio,3.986497945339508
+NVDA,Liquidity,2023,Quick Ratio,2.886662357250593
+NVDA,Liquidity,2022,Quick Ratio,2.784296807592753
+NVDA,Liquidity,2025,Cash Ratio,1.360420590081607
+NVDA,Liquidity,2024,Cash Ratio,1.694605700867523
+NVDA,Liquidity,2023,Cash Ratio,0.9618616677440207
+NVDA,Liquidity,2022,Cash Ratio,1.028041415012942
+NVDA,Leverage,2025,Debt-to-Equity,0.6222642332581982
+NVDA,Leverage,2024,Debt-to-Equity,0.6310205221276002
+NVDA,Leverage,2023,Debt-to-Equity,1.026428090140002
+NVDA,Leverage,2022,Debt-to-Equity,0.9466725236108061
+NVDA,Leverage,2025,Debt Ratio,0.3835776074582045
+NVDA,Leverage,2024,Debt Ratio,0.4126095423563778
+NVDA,Leverage,2023,Debt Ratio,0.5065114990302023
+NVDA,Leverage,2022,Debt Ratio,0.4863029154255799
+NVDA,Leverage,2025,LT Debt-to-Equity,0.1545844543008798
+NVDA,Leverage,2024,LT Debt-to-Equity,0.1980082833077388
+NVDA,Leverage,2023,LT Debt-to-Equity,0.3631429213146665
+NVDA,Leverage,2022,LT Debt-to-Equity,0.2878102350098836
+NVDA,Leverage,2025,Equity Ratio,0.6164223925417955
+NVDA,Leverage,2024,Equity Ratio,0.653876582278481
+NVDA,Leverage,2023,Equity Ratio,0.4934700286321234
+NVDA,Leverage,2022,Equity Ratio,0.5136970845744201
+NVDA,Efficiency,2025,Asset Turnover,1.169799650396665
+NVDA,Efficiency,2024,Asset Turnover,0.9268804771178188
+NVDA,Efficiency,2023,Asset Turnover,0.4982728364274499
+NVDA,Efficiency,2022,Asset Turnover,0.6073201552486687
+AAPL,Profitability,2024,Net Profit Margin,0.2864449473832266
+AAPL,Profitability,2023,Net Profit Margin,0.2530623426432028
+AAPL,Profitability,2022,Net Profit Margin,0.2530964070519973
+AAPL,Profitability,2021,Net Profit Margin,0.2588179335569424
+AAPL,Profitability,2024,Gross Margin,0.4991906095362308
+AAPL,Profitability,2023,Gross Margin,0.4413112957720756
+AAPL,Profitability,2022,Gross Margin,0.4330963056136009
+AAPL,Profitability,2021,Gross Margin,0.4177935962516778
+AAPL,Profitability,2024,Operating Margin,0.3402508726840308
+AAPL,Profitability,2023,Operating Margin,0.2982141226502472
+AAPL,Profitability,2022,Operating Margin,0.3028874439552859
+AAPL,Profitability,2021,Operating Margin,0.2978237752756159
+AAPL,Profitability,2024,EBITDA Margin,0.3701663533954761
+AAPL,Profitability,2023,EBITDA Margin,0.3282674772036474
+AAPL,Profitability,2022,EBITDA Margin,0.3310467428130896
+AAPL,Profitability,2021,EBITDA Margin,0.3250395689648103
+AAPL,Profitability,2024,R&D % of Revenue,0.08835526231667241
+AAPL,Profitability,2023,R&D % of Revenue,0.07804897139204509
+AAPL,Profitability,2022,R&D % of Revenue,0.06657148363798665
+AAPL,Profitability,2021,R&D % of Revenue,0.05990426907442793
+AAPL,Profitability,2024,Effective Tax Rate,
+AAPL,Profitability,2023,Effective Tax Rate,
+AAPL,Profitability,2022,Effective Tax Rate,
+AAPL,Profitability,2021,Effective Tax Rate,
+AAPL,Profitability,2024,Diluted EPS,7.46e-06
+AAPL,Profitability,2023,Diluted EPS,6.13e-06
+AAPL,Profitability,2022,Diluted EPS,6.11e-06
+AAPL,Profitability,2021,Diluted EPS,5.61e-06
+AAPL,Profitability,2024,ROA,0.3151899553426963
+AAPL,Profitability,2023,ROA,0.2729385743992931
+AAPL,Profitability,2022,ROA,0.2808401313549426
+AAPL,Profitability,2021,ROA,0.266424292222538
+AAPL,Profitability,2024,ROE,1.552933673469388
+AAPL,Profitability,2023,ROE,1.344762089618456
+AAPL,Profitability,2022,ROE,1.383692879325643
+AAPL,Profitability,2021,ROE,1.312666370896185
+AAPL,Liquidity,2024,Current Ratio,1.014072181682169
+AAPL,Liquidity,2023,Current Ratio,1.071603979906399
+AAPL,Liquidity,2022,Current Ratio,0.9168314284166621
+AAPL,Liquidity,2021,Current Ratio,1.074553119595795
+AAPL,Liquidity,2024,Quick Ratio,0.965849906138407
+AAPL,Liquidity,2023,Quick Ratio,1.024348189560583
+AAPL,Liquidity,2022,Quick Ratio,0.8833419099723742
+AAPL,Liquidity,2021,Quick Ratio,1.022114901857652
+AAPL,Liquidity,2024,Cash Ratio,0.2113156148992929
+AAPL,Liquidity,2023,Cash Ratio,0.2236644697065827
+AAPL,Liquidity,2022,Cash Ratio,0.160107794810682
+AAPL,Liquidity,2021,Cash Ratio,0.2788788740924921
+AAPL,Leverage,2024,Debt-to-Equity,3.860955729582867
+AAPL,Leverage,2023,Debt-to-Equity,4.071816770186335
+AAPL,Leverage,2022,Debt-to-Equity,4.21533753215648
+AAPL,Leverage,2021,Debt-to-Equity,3.604029486607728
+AAPL,Leverage,2024,Debt Ratio,0.7942791385829361
+AAPL,Leverage,2023,Debt Ratio,0.80283199387677
+AAPL,Leverage,2022,Debt Ratio,0.8082578560190501
+AAPL,Leverage,2021,Debt Ratio,0.7827989584104934
+AAPL,Leverage,2024,LT Debt-to-Equity,1.181010601459698
+AAPL,Leverage,2023,LT Debt-to-Equity,1.36992466068553
+AAPL,Leverage,2022,LT Debt-to-Equity,1.460111180105858
+AAPL,Leverage,2021,LT Debt-to-Equity,1.433432146698497
+AAPL,Leverage,2024,Equity Ratio,0.2057208614170639
+AAPL,Leverage,2023,Equity Ratio,0.19716800612323
+AAPL,Leverage,2022,Equity Ratio,0.19174214398095
+AAPL,Leverage,2021,Equity Ratio,0.2172010415895066
+AAPL,Efficiency,2024,Asset Turnover,1.071387473286207
+AAPL,Efficiency,2023,Asset Turnover,1.086547320378166
+AAPL,Efficiency,2022,Asset Turnover,1.117852333772732
+AAPL,Efficiency,2021,Asset Turnover,1.042207736708053

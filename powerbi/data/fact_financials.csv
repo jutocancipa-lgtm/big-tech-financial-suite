@@ -1,0 +1,505 @@
+Ticker,Fiscal Year,Statement,Line Item,Value (Millions USD)
+AMD,2024,Income Statement,Revenue,25785.0
+AMD,2023,Income Statement,Revenue,22680.0
+AMD,2022,Income Statement,Revenue,23601.0
+AMD,2021,Income Statement,Revenue,16434.0
+AMD,2024,Income Statement,Cost of Revenue,13554.0
+AMD,2023,Income Statement,Cost of Revenue,11681.0
+AMD,2022,Income Statement,Cost of Revenue,10782.0
+AMD,2021,Income Statement,Cost of Revenue,7752.0
+AMD,2024,Income Statement,Gross Profit,12231.0
+AMD,2023,Income Statement,Gross Profit,10999.0
+AMD,2022,Income Statement,Gross Profit,12819.0
+AMD,2021,Income Statement,Gross Profit,8682.0
+AMD,2024,Income Statement,R&D Expense,7352.0
+AMD,2023,Income Statement,R&D Expense,5870.0
+AMD,2022,Income Statement,R&D Expense,5322.0
+AMD,2021,Income Statement,R&D Expense,2845.0
+AMD,2024,Income Statement,SG&A,3541.0
+AMD,2023,Income Statement,SG&A,3071.0
+AMD,2022,Income Statement,SG&A,3250.0
+AMD,2021,Income Statement,SG&A,2216.0
+AMD,2024,Income Statement,Operating Expenses,11522.0
+AMD,2023,Income Statement,Operating Expenses,9154.0
+AMD,2022,Income Statement,Operating Expenses,8737.0
+AMD,2021,Income Statement,Operating Expenses,5429.0
+AMD,2024,Income Statement,Operating Income,2208.0
+AMD,2023,Income Statement,Operating Income,2653.0
+AMD,2022,Income Statement,Operating Income,4110.0
+AMD,2021,Income Statement,Operating Income,3615.0
+AMD,2024,Income Statement,Interest Expense,0.0
+AMD,2023,Income Statement,Interest Expense,0.0
+AMD,2022,Income Statement,Interest Expense,80.0
+AMD,2021,Income Statement,Interest Expense,140.0
+AMD,2024,Income Statement,Pre-Tax Income,
+AMD,2023,Income Statement,Pre-Tax Income,
+AMD,2022,Income Statement,Pre-Tax Income,
+AMD,2021,Income Statement,Pre-Tax Income,
+AMD,2024,Income Statement,Tax Provision,768.0
+AMD,2023,Income Statement,Tax Provision,813.0
+AMD,2022,Income Statement,Tax Provision,564.0
+AMD,2021,Income Statement,Tax Provision,625.0
+AMD,2024,Income Statement,Net Income,1641.0
+AMD,2023,Income Statement,Net Income,854.0
+AMD,2022,Income Statement,Net Income,132.0
+AMD,2021,Income Statement,Net Income,3162.0
+AMD,2024,Income Statement,EBIT,2208.0
+AMD,2023,Income Statement,EBIT,2653.0
+AMD,2022,Income Statement,EBIT,4110.0
+AMD,2021,Income Statement,EBIT,3615.0
+AMD,2024,Income Statement,EBITDA,4116.0
+AMD,2023,Income Statement,EBITDA,4167.0
+AMD,2022,Income Statement,EBITDA,5411.0
+AMD,2021,Income Statement,EBITDA,4393.0
+AMD,2024,Income Statement,Diluted EPS,1.02e-06
+AMD,2023,Income Statement,Diluted EPS,5.3e-07
+AMD,2022,Income Statement,Diluted EPS,8.4e-07
+AMD,2021,Income Statement,Diluted EPS,2.57e-06
+AMD,2024,Balance Sheet,Cash & Equivalents,3887.0
+AMD,2023,Balance Sheet,Cash & Equivalents,5770.0
+AMD,2022,Balance Sheet,Cash & Equivalents,5900.0
+AMD,2021,Balance Sheet,Cash & Equivalents,3692.0
+AMD,2024,Balance Sheet,Short-Term Investments,9579.0
+AMD,2023,Balance Sheet,Short-Term Investments,3818.0
+AMD,2022,Balance Sheet,Short-Term Investments,1933.0
+AMD,2021,Balance Sheet,Short-Term Investments,3575.0
+AMD,2024,Balance Sheet,Accounts Receivable,13357.0
+AMD,2023,Balance Sheet,Accounts Receivable,9711.0
+AMD,2022,Balance Sheet,Accounts Receivable,7277.0
+AMD,2021,Balance Sheet,Accounts Receivable,5417.0
+AMD,2024,Balance Sheet,Inventory,6942.0
+AMD,2023,Balance Sheet,Inventory,5506.0
+AMD,2022,Balance Sheet,Inventory,4147.0
+AMD,2021,Balance Sheet,Inventory,2397.0
+AMD,2024,Balance Sheet,Current Assets,36958.0
+AMD,2023,Balance Sheet,Current Assets,25950.0
+AMD,2022,Balance Sheet,Current Assets,19380.0
+AMD,2021,Balance Sheet,Current Assets,15834.0
+AMD,2024,Balance Sheet,PP&E (Net),4199.0
+AMD,2023,Balance Sheet,PP&E (Net),3506.0
+AMD,2022,Balance Sheet,PP&E (Net),2669.0
+AMD,2021,Balance Sheet,PP&E (Net),2262.0
+AMD,2024,Balance Sheet,Goodwill,23475.0
+AMD,2023,Balance Sheet,Goodwill,24188.0
+AMD,2022,Balance Sheet,Goodwill,24683.0
+AMD,2021,Balance Sheet,Goodwill,15410.0
+AMD,2024,Balance Sheet,Intangibles,1577.0
+AMD,2023,Balance Sheet,Intangibles,1909.0
+AMD,2022,Balance Sheet,Intangibles,2362.0
+AMD,2021,Balance Sheet,Intangibles,1176.0
+AMD,2024,Balance Sheet,Total Assets,67886.0
+AMD,2023,Balance Sheet,Total Assets,67900.0
+AMD,2022,Balance Sheet,Total Assets,67734.0
+AMD,2021,Balance Sheet,Total Assets,36541.0
+AMD,2024,Balance Sheet,Accounts Payable,5300.0
+AMD,2023,Balance Sheet,Accounts Payable,3867.0
+AMD,2022,Balance Sheet,Accounts Payable,4039.0
+AMD,2021,Balance Sheet,Accounts Payable,3146.0
+AMD,2024,Balance Sheet,Short-Term Debt,
+AMD,2023,Balance Sheet,Short-Term Debt,
+AMD,2022,Balance Sheet,Short-Term Debt,
+AMD,2021,Balance Sheet,Short-Term Debt,
+AMD,2024,Balance Sheet,Current Liabilities,11838.0
+AMD,2023,Balance Sheet,Current Liabilities,9780.0
+AMD,2022,Balance Sheet,Current Liabilities,12860.0
+AMD,2021,Balance Sheet,Current Liabilities,8180.0
+AMD,2024,Balance Sheet,Long-Term Debt,1437.0
+AMD,2023,Balance Sheet,Long-Term Debt,1743.0
+AMD,2022,Balance Sheet,Long-Term Debt,2492.0
+AMD,2021,Balance Sheet,Long-Term Debt,1111.0
+AMD,2024,Balance Sheet,Total Liabilities,9716.0
+AMD,2023,Balance Sheet,Total Liabilities,14200.0
+AMD,2022,Balance Sheet,Total Liabilities,17080.0
+AMD,2021,Balance Sheet,Total Liabilities,11332.0
+AMD,2024,Balance Sheet,Total Equity,58170.0
+AMD,2023,Balance Sheet,Total Equity,53700.0
+AMD,2022,Balance Sheet,Total Equity,50654.0
+AMD,2021,Balance Sheet,Total Equity,25209.0
+AMD,2024,Balance Sheet,Retained Earnings,7037.0
+AMD,2023,Balance Sheet,Retained Earnings,5634.0
+AMD,2022,Balance Sheet,Retained Earnings,4125.0
+AMD,2021,Balance Sheet,Retained Earnings,3900.0
+AMD,2024,Cash Flow,Net Income,1641.0
+AMD,2023,Cash Flow,Net Income,854.0
+AMD,2022,Cash Flow,Net Income,132.0
+AMD,2021,Cash Flow,Net Income,3162.0
+AMD,2024,Cash Flow,D&A,1908.0
+AMD,2023,Cash Flow,D&A,1514.0
+AMD,2022,Cash Flow,D&A,1301.0
+AMD,2021,Cash Flow,D&A,778.0
+AMD,2024,Cash Flow,Stock-Based Compensation,3498.0
+AMD,2023,Cash Flow,Stock-Based Compensation,3249.0
+AMD,2022,Cash Flow,Stock-Based Compensation,2096.0
+AMD,2021,Cash Flow,Stock-Based Compensation,1197.0
+AMD,2024,Cash Flow,Change in Working Capital,-2464.0
+AMD,2023,Cash Flow,Change in Working Capital,-1181.0
+AMD,2022,Cash Flow,Change in Working Capital,-3151.0
+AMD,2021,Cash Flow,Change in Working Capital,-1297.0
+AMD,2024,Cash Flow,Operating Cash Flow,3495.0
+AMD,2023,Cash Flow,Operating Cash Flow,3767.0
+AMD,2022,Cash Flow,Operating Cash Flow,3549.0
+AMD,2021,Cash Flow,Operating Cash Flow,3603.0
+AMD,2024,Cash Flow,Capital Expenditure,-1539.0
+AMD,2023,Cash Flow,Capital Expenditure,-1291.0
+AMD,2022,Cash Flow,Capital Expenditure,-1572.0
+AMD,2021,Cash Flow,Capital Expenditure,-1076.0
+AMD,2024,Cash Flow,Investing Cash Flow,-4565.0
+AMD,2023,Cash Flow,Investing Cash Flow,-1804.0
+AMD,2022,Cash Flow,Investing Cash Flow,-39744.0
+AMD,2021,Cash Flow,Investing Cash Flow,-1484.0
+AMD,2024,Cash Flow,Financing Cash Flow,-783.0
+AMD,2023,Cash Flow,Financing Cash Flow,-211.0
+AMD,2022,Cash Flow,Financing Cash Flow,34844.0
+AMD,2021,Cash Flow,Financing Cash Flow,-4068.0
+AMD,2024,Cash Flow,Free Cash Flow,1956.0
+AMD,2023,Cash Flow,Free Cash Flow,2476.0
+AMD,2022,Cash Flow,Free Cash Flow,1977.0
+AMD,2021,Cash Flow,Free Cash Flow,2527.0
+AMD,2024,Cash Flow,Dividends Paid,0.0
+AMD,2023,Cash Flow,Dividends Paid,0.0
+AMD,2022,Cash Flow,Dividends Paid,0.0
+AMD,2021,Cash Flow,Dividends Paid,0.0
+AMD,2024,Cash Flow,Share Repurchases,-782.0
+AMD,2023,Cash Flow,Share Repurchases,0.0
+AMD,2022,Cash Flow,Share Repurchases,0.0
+AMD,2021,Cash Flow,Share Repurchases,-4068.0
+AMD,2024,Cash Flow,Change in Cash,-1853.0
+AMD,2023,Cash Flow,Change in Cash,752.0
+AMD,2022,Cash Flow,Change in Cash,-230.0
+AMD,2021,Cash Flow,Change in Cash,-1950.0
+NVDA,2025,Income Statement,Revenue,130497.0
+NVDA,2024,Income Statement,Revenue,60922.0
+NVDA,2023,Income Statement,Revenue,26974.0
+NVDA,2022,Income Statement,Revenue,26914.0
+NVDA,2025,Income Statement,Cost of Revenue,30315.0
+NVDA,2024,Income Statement,Cost of Revenue,16624.0
+NVDA,2023,Income Statement,Cost of Revenue,11422.0
+NVDA,2022,Income Statement,Cost of Revenue,9434.0
+NVDA,2025,Income Statement,Gross Profit,100182.0
+NVDA,2024,Income Statement,Gross Profit,44298.0
+NVDA,2023,Income Statement,Gross Profit,15552.0
+NVDA,2022,Income Statement,Gross Profit,17480.0
+NVDA,2025,Income Statement,R&D Expense,18594.0
+NVDA,2024,Income Statement,R&D Expense,8675.0
+NVDA,2023,Income Statement,R&D Expense,7334.0
+NVDA,2022,Income Statement,R&D Expense,5185.0
+NVDA,2025,Income Statement,SG&A,9987.0
+NVDA,2024,Income Statement,SG&A,6536.0
+NVDA,2023,Income Statement,SG&A,4925.0
+NVDA,2022,Income Statement,SG&A,3625.0
+NVDA,2025,Income Statement,Operating Expenses,31631.0
+NVDA,2024,Income Statement,Operating Expenses,16919.0
+NVDA,2023,Income Statement,Operating Expenses,1331.0
+NVDA,2022,Income Statement,Operating Expenses,9270.0
+NVDA,2025,Income Statement,Operating Income,80274.0
+NVDA,2024,Income Statement,Operating Income,33122.0
+NVDA,2023,Income Statement,Operating Income,6021.0
+NVDA,2022,Income Statement,Operating Income,9163.0
+NVDA,2025,Income Statement,Interest Expense,0.0
+NVDA,2024,Income Statement,Interest Expense,1340.0
+NVDA,2023,Income Statement,Interest Expense,1545.0
+NVDA,2022,Income Statement,Interest Expense,120.0
+NVDA,2025,Income Statement,Pre-Tax Income,
+NVDA,2024,Income Statement,Pre-Tax Income,
+NVDA,2023,Income Statement,Pre-Tax Income,
+NVDA,2022,Income Statement,Pre-Tax Income,
+NVDA,2025,Income Statement,Tax Provision,11682.0
+NVDA,2024,Income Statement,Tax Provision,4431.0
+NVDA,2023,Income Statement,Tax Provision,1038.0
+NVDA,2022,Income Statement,Tax Provision,551.0
+NVDA,2025,Income Statement,Net Income,72888.0
+NVDA,2024,Income Statement,Net Income,29760.0
+NVDA,2023,Income Statement,Net Income,8075.0
+NVDA,2022,Income Statement,Net Income,9384.0
+NVDA,2025,Income Statement,EBIT,80274.0
+NVDA,2024,Income Statement,EBIT,33122.0
+NVDA,2023,Income Statement,EBIT,6021.0
+NVDA,2022,Income Statement,EBIT,9163.0
+NVDA,2025,Income Statement,EBITDA,87318.0
+NVDA,2024,Income Statement,EBITDA,38578.0
+NVDA,2023,Income Statement,EBITDA,10332.0
+NVDA,2022,Income Statement,EBITDA,11562.0
+NVDA,2025,Income Statement,Diluted EPS,2.94e-06
+NVDA,2024,Income Statement,Diluted EPS,1.2e-06
+NVDA,2023,Income Statement,Diluted EPS,3.2e-07
+NVDA,2022,Income Statement,Diluted EPS,3.7e-07
+NVDA,2025,Balance Sheet,Cash & Equivalents,43343.0
+NVDA,2024,Balance Sheet,Cash & Equivalents,25980.0
+NVDA,2023,Balance Sheet,Cash & Equivalents,13392.0
+NVDA,2022,Balance Sheet,Cash & Equivalents,11915.0
+NVDA,2025,Balance Sheet,Short-Term Investments,27431.0
+NVDA,2024,Balance Sheet,Short-Term Investments,18400.0
+NVDA,2023,Balance Sheet,Short-Term Investments,6498.0
+NVDA,2022,Balance Sheet,Short-Term Investments,6927.0
+NVDA,2025,Balance Sheet,Accounts Receivable,29382.0
+NVDA,2024,Balance Sheet,Accounts Receivable,17514.0
+NVDA,2023,Balance Sheet,Accounts Receivable,17630.0
+NVDA,2022,Balance Sheet,Accounts Receivable,12842.0
+NVDA,2025,Balance Sheet,Inventory,10106.0
+NVDA,2024,Balance Sheet,Inventory,5265.0
+NVDA,2023,Balance Sheet,Inventory,4459.0
+NVDA,2022,Balance Sheet,Inventory,2944.0
+NVDA,2025,Balance Sheet,Current Assets,110200.0
+NVDA,2024,Balance Sheet,Current Assets,66382.0
+NVDA,2023,Balance Sheet,Current Assets,44650.0
+NVDA,2022,Balance Sheet,Current Assets,35214.0
+NVDA,2025,Balance Sheet,PP&E (Net),21555.0
+NVDA,2024,Balance Sheet,PP&E (Net),12836.0
+NVDA,2023,Balance Sheet,PP&E (Net),7589.0
+NVDA,2022,Balance Sheet,PP&E (Net),5435.0
+NVDA,2025,Balance Sheet,Goodwill,12725.0
+NVDA,2024,Balance Sheet,Goodwill,12725.0
+NVDA,2023,Balance Sheet,Goodwill,12442.0
+NVDA,2022,Balance Sheet,Goodwill,10444.0
+NVDA,2025,Balance Sheet,Intangibles,3579.0
+NVDA,2024,Balance Sheet,Intangibles,1559.0
+NVDA,2023,Balance Sheet,Intangibles,1179.0
+NVDA,2022,Balance Sheet,Intangibles,196.0
+NVDA,2025,Balance Sheet,Total Assets,111555.0
+NVDA,2024,Balance Sheet,Total Assets,65728.0
+NVDA,2023,Balance Sheet,Total Assets,54135.0
+NVDA,2022,Balance Sheet,Total Assets,44316.0
+NVDA,2025,Balance Sheet,Accounts Payable,8786.0
+NVDA,2024,Balance Sheet,Accounts Payable,5739.0
+NVDA,2023,Balance Sheet,Accounts Payable,2748.0
+NVDA,2022,Balance Sheet,Accounts Payable,2130.0
+NVDA,2025,Balance Sheet,Short-Term Debt,
+NVDA,2024,Balance Sheet,Short-Term Debt,
+NVDA,2023,Balance Sheet,Short-Term Debt,
+NVDA,2022,Balance Sheet,Short-Term Debt,
+NVDA,2025,Balance Sheet,Current Liabilities,31860.0
+NVDA,2024,Balance Sheet,Current Liabilities,15331.0
+NVDA,2023,Balance Sheet,Current Liabilities,13923.0
+NVDA,2022,Balance Sheet,Current Liabilities,11590.0
+NVDA,2025,Balance Sheet,Long-Term Debt,10630.0
+NVDA,2024,Balance Sheet,Long-Term Debt,8510.0
+NVDA,2023,Balance Sheet,Long-Term Debt,9701.0
+NVDA,2022,Balance Sheet,Long-Term Debt,6552.0
+NVDA,2025,Balance Sheet,Total Liabilities,42790.0
+NVDA,2024,Balance Sheet,Total Liabilities,27120.0
+NVDA,2023,Balance Sheet,Total Liabilities,27420.0
+NVDA,2022,Balance Sheet,Total Liabilities,21551.0
+NVDA,2025,Balance Sheet,Total Equity,68765.0
+NVDA,2024,Balance Sheet,Total Equity,42978.0
+NVDA,2023,Balance Sheet,Total Equity,26714.0
+NVDA,2022,Balance Sheet,Total Equity,22765.0
+NVDA,2025,Balance Sheet,Retained Earnings,51743.0
+NVDA,2024,Balance Sheet,Retained Earnings,29703.0
+NVDA,2023,Balance Sheet,Retained Earnings,18785.0
+NVDA,2022,Balance Sheet,Retained Earnings,12782.0
+NVDA,2025,Cash Flow,Net Income,72888.0
+NVDA,2024,Cash Flow,Net Income,29760.0
+NVDA,2023,Cash Flow,Net Income,8075.0
+NVDA,2022,Cash Flow,Net Income,9384.0
+NVDA,2025,Cash Flow,D&A,7044.0
+NVDA,2024,Cash Flow,D&A,5456.0
+NVDA,2023,Cash Flow,D&A,4311.0
+NVDA,2022,Cash Flow,D&A,2919.0
+NVDA,2025,Cash Flow,Stock-Based Compensation,3107.0
+NVDA,2024,Cash Flow,Stock-Based Compensation,3178.0
+NVDA,2023,Cash Flow,Stock-Based Compensation,2303.0
+NVDA,2022,Cash Flow,Stock-Based Compensation,1691.0
+NVDA,2025,Cash Flow,Change in Working Capital,7392.0
+NVDA,2024,Cash Flow,Change in Working Capital,9472.0
+NVDA,2023,Cash Flow,Change in Working Capital,-6121.0
+NVDA,2022,Cash Flow,Change in Working Capital,-2841.0
+NVDA,2025,Cash Flow,Operating Cash Flow,73962.0
+NVDA,2024,Cash Flow,Operating Cash Flow,41265.0
+NVDA,2023,Cash Flow,Operating Cash Flow,15413.0
+NVDA,2022,Cash Flow,Operating Cash Flow,11442.0
+NVDA,2025,Cash Flow,Capital Expenditure,-4643.0
+NVDA,2024,Cash Flow,Capital Expenditure,-2780.0
+NVDA,2023,Cash Flow,Capital Expenditure,-1432.0
+NVDA,2022,Cash Flow,Capital Expenditure,-1182.0
+NVDA,2025,Cash Flow,Investing Cash Flow,-36627.0
+NVDA,2024,Cash Flow,Investing Cash Flow,-15282.0
+NVDA,2023,Cash Flow,Investing Cash Flow,-5538.0
+NVDA,2022,Cash Flow,Investing Cash Flow,-5309.0
+NVDA,2025,Cash Flow,Financing Cash Flow,-24779.0
+NVDA,2024,Cash Flow,Financing Cash Flow,-13198.0
+NVDA,2023,Cash Flow,Financing Cash Flow,-8899.0
+NVDA,2022,Cash Flow,Financing Cash Flow,-8329.0
+NVDA,2025,Cash Flow,Free Cash Flow,69319.0
+NVDA,2024,Cash Flow,Free Cash Flow,38485.0
+NVDA,2023,Cash Flow,Free Cash Flow,13981.0
+NVDA,2022,Cash Flow,Free Cash Flow,10260.0
+NVDA,2025,Cash Flow,Dividends Paid,0.0
+NVDA,2024,Cash Flow,Dividends Paid,0.0
+NVDA,2023,Cash Flow,Dividends Paid,0.0
+NVDA,2022,Cash Flow,Dividends Paid,0.0
+NVDA,2025,Cash Flow,Share Repurchases,-24885.0
+NVDA,2024,Cash Flow,Share Repurchases,-12768.0
+NVDA,2023,Cash Flow,Share Repurchases,-8779.0
+NVDA,2022,Cash Flow,Share Repurchases,-8054.0
+NVDA,2025,Cash Flow,Change in Cash,12556.0
+NVDA,2024,Cash Flow,Change in Cash,12785.0
+NVDA,2023,Cash Flow,Change in Cash,976.0
+NVDA,2022,Cash Flow,Change in Cash,-2196.0
+AAPL,2024,Income Statement,Revenue,391035.0
+AAPL,2023,Income Statement,Revenue,383285.0
+AAPL,2022,Income Statement,Revenue,394328.0
+AAPL,2021,Income Statement,Revenue,365817.0
+AAPL,2024,Income Statement,Cost of Revenue,220960.0
+AAPL,2023,Income Statement,Cost of Revenue,214137.0
+AAPL,2022,Income Statement,Cost of Revenue,223546.0
+AAPL,2021,Income Statement,Cost of Revenue,212981.0
+AAPL,2024,Income Statement,Gross Profit,195201.0
+AAPL,2023,Income Statement,Gross Profit,169148.0
+AAPL,2022,Income Statement,Gross Profit,170782.0
+AAPL,2021,Income Statement,Gross Profit,152836.0
+AAPL,2024,Income Statement,R&D Expense,34550.0
+AAPL,2023,Income Statement,R&D Expense,29915.0
+AAPL,2022,Income Statement,R&D Expense,26251.0
+AAPL,2021,Income Statement,R&D Expense,21914.0
+AAPL,2024,Income Statement,SG&A,27601.0
+AAPL,2023,Income Statement,SG&A,24932.0
+AAPL,2022,Income Statement,SG&A,25094.0
+AAPL,2021,Income Statement,SG&A,21973.0
+AAPL,2024,Income Statement,Operating Expenses,62151.0
+AAPL,2023,Income Statement,Operating Expenses,54847.0
+AAPL,2022,Income Statement,Operating Expenses,51345.0
+AAPL,2021,Income Statement,Operating Expenses,43887.0
+AAPL,2024,Income Statement,Operating Income,133050.0
+AAPL,2023,Income Statement,Operating Income,114301.0
+AAPL,2022,Income Statement,Operating Income,119437.0
+AAPL,2021,Income Statement,Operating Income,108949.0
+AAPL,2024,Income Statement,Interest Expense,0.0
+AAPL,2023,Income Statement,Interest Expense,3933.0
+AAPL,2022,Income Statement,Interest Expense,2931.0
+AAPL,2021,Income Statement,Interest Expense,2645.0
+AAPL,2024,Income Statement,Pre-Tax Income,
+AAPL,2023,Income Statement,Pre-Tax Income,
+AAPL,2022,Income Statement,Pre-Tax Income,
+AAPL,2021,Income Statement,Pre-Tax Income,
+AAPL,2024,Income Statement,Tax Provision,20719.0
+AAPL,2023,Income Statement,Tax Provision,16741.0
+AAPL,2022,Income Statement,Tax Provision,19300.0
+AAPL,2021,Income Statement,Tax Provision,14527.0
+AAPL,2024,Income Statement,Net Income,112010.0
+AAPL,2023,Income Statement,Net Income,96995.0
+AAPL,2022,Income Statement,Net Income,99803.0
+AAPL,2021,Income Statement,Net Income,94680.0
+AAPL,2024,Income Statement,EBIT,133050.0
+AAPL,2023,Income Statement,EBIT,114301.0
+AAPL,2022,Income Statement,EBIT,119437.0
+AAPL,2021,Income Statement,EBIT,108949.0
+AAPL,2024,Income Statement,EBITDA,144748.0
+AAPL,2023,Income Statement,EBITDA,125820.0
+AAPL,2022,Income Statement,EBITDA,130541.0
+AAPL,2021,Income Statement,EBITDA,118905.0
+AAPL,2024,Income Statement,Diluted EPS,7.46e-06
+AAPL,2023,Income Statement,Diluted EPS,6.13e-06
+AAPL,2022,Income Statement,Diluted EPS,6.11e-06
+AAPL,2021,Income Statement,Diluted EPS,5.61e-06
+AAPL,2024,Balance Sheet,Cash & Equivalents,29943.0
+AAPL,2023,Balance Sheet,Cash & Equivalents,29965.0
+AAPL,2022,Balance Sheet,Cash & Equivalents,23646.0
+AAPL,2021,Balance Sheet,Cash & Equivalents,34994.0
+AAPL,2024,Balance Sheet,Short-Term Investments,35228.0
+AAPL,2023,Balance Sheet,Short-Term Investments,31590.0
+AAPL,2022,Balance Sheet,Short-Term Investments,24658.0
+AAPL,2021,Balance Sheet,Short-Term Investments,27699.0
+AAPL,2024,Balance Sheet,Accounts Receivable,44264.0
+AAPL,2023,Balance Sheet,Accounts Receivable,42969.0
+AAPL,2022,Balance Sheet,Accounts Receivable,47819.0
+AAPL,2021,Balance Sheet,Accounts Receivable,39412.0
+AAPL,2024,Balance Sheet,Inventory,6833.0
+AAPL,2023,Balance Sheet,Inventory,6331.0
+AAPL,2022,Balance Sheet,Inventory,4946.0
+AAPL,2021,Balance Sheet,Inventory,6580.0
+AAPL,2024,Balance Sheet,Current Assets,143692.0
+AAPL,2023,Balance Sheet,Current Assets,143566.0
+AAPL,2022,Balance Sheet,Current Assets,135405.0
+AAPL,2021,Balance Sheet,Current Assets,134836.0
+AAPL,2024,Balance Sheet,PP&E (Net),43528.0
+AAPL,2023,Balance Sheet,PP&E (Net),43717.0
+AAPL,2022,Balance Sheet,PP&E (Net),42217.0
+AAPL,2021,Balance Sheet,PP&E (Net),39393.0
+AAPL,2024,Balance Sheet,Goodwill,0.0
+AAPL,2023,Balance Sheet,Goodwill,0.0
+AAPL,2022,Balance Sheet,Goodwill,0.0
+AAPL,2021,Balance Sheet,Goodwill,0.0
+AAPL,2024,Balance Sheet,Intangibles,0.0
+AAPL,2023,Balance Sheet,Intangibles,0.0
+AAPL,2022,Balance Sheet,Intangibles,0.0
+AAPL,2021,Balance Sheet,Intangibles,0.0
+AAPL,2024,Balance Sheet,Total Assets,364980.0
+AAPL,2023,Balance Sheet,Total Assets,352755.0
+AAPL,2022,Balance Sheet,Total Assets,352755.0
+AAPL,2021,Balance Sheet,Total Assets,351002.0
+AAPL,2024,Balance Sheet,Accounts Payable,61298.0
+AAPL,2023,Balance Sheet,Accounts Payable,58929.0
+AAPL,2022,Balance Sheet,Accounts Payable,52513.0
+AAPL,2021,Balance Sheet,Accounts Payable,47093.0
+AAPL,2024,Balance Sheet,Short-Term Debt,
+AAPL,2023,Balance Sheet,Short-Term Debt,
+AAPL,2022,Balance Sheet,Short-Term Debt,
+AAPL,2021,Balance Sheet,Short-Term Debt,
+AAPL,2024,Balance Sheet,Current Liabilities,141698.0
+AAPL,2023,Balance Sheet,Current Liabilities,133973.0
+AAPL,2022,Balance Sheet,Current Liabilities,147688.0
+AAPL,2021,Balance Sheet,Current Liabilities,125481.0
+AAPL,2024,Balance Sheet,Long-Term Debt,88675.0
+AAPL,2023,Balance Sheet,Long-Term Debt,95281.0
+AAPL,2022,Balance Sheet,Long-Term Debt,98759.0
+AAPL,2021,Balance Sheet,Long-Term Debt,109282.0
+AAPL,2024,Balance Sheet,Total Liabilities,289896.0
+AAPL,2023,Balance Sheet,Total Liabilities,283203.0
+AAPL,2022,Balance Sheet,Total Liabilities,285117.0
+AAPL,2021,Balance Sheet,Total Liabilities,274764.0
+AAPL,2024,Balance Sheet,Total Equity,75084.0
+AAPL,2023,Balance Sheet,Total Equity,69552.0
+AAPL,2022,Balance Sheet,Total Equity,67638.0
+AAPL,2021,Balance Sheet,Total Equity,76238.0
+AAPL,2024,Balance Sheet,Retained Earnings,37859.0
+AAPL,2023,Balance Sheet,Retained Earnings,75594.0
+AAPL,2022,Balance Sheet,Retained Earnings,12140.0
+AAPL,2021,Balance Sheet,Retained Earnings,5562.0
+AAPL,2024,Cash Flow,Net Income,112010.0
+AAPL,2023,Cash Flow,Net Income,96995.0
+AAPL,2022,Cash Flow,Net Income,99803.0
+AAPL,2021,Cash Flow,Net Income,94680.0
+AAPL,2024,Cash Flow,D&A,11698.0
+AAPL,2023,Cash Flow,D&A,11519.0
+AAPL,2022,Cash Flow,D&A,11104.0
+AAPL,2021,Cash Flow,D&A,11056.0
+AAPL,2024,Cash Flow,Stock-Based Compensation,12863.0
+AAPL,2023,Cash Flow,Stock-Based Compensation,10833.0
+AAPL,2022,Cash Flow,Stock-Based Compensation,9038.0
+AAPL,2021,Cash Flow,Stock-Based Compensation,6139.0
+AAPL,2024,Cash Flow,Change in Working Capital,-25000.0
+AAPL,2023,Cash Flow,Change in Working Capital,-6577.0
+AAPL,2022,Cash Flow,Change in Working Capital,1200.0
+AAPL,2021,Cash Flow,Change in Working Capital,-2700.0
+AAPL,2024,Cash Flow,Operating Cash Flow,118254.0
+AAPL,2023,Cash Flow,Operating Cash Flow,110543.0
+AAPL,2022,Cash Flow,Operating Cash Flow,122151.0
+AAPL,2021,Cash Flow,Operating Cash Flow,104038.0
+AAPL,2024,Cash Flow,Capital Expenditure,-9447.0
+AAPL,2023,Cash Flow,Capital Expenditure,-10959.0
+AAPL,2022,Cash Flow,Capital Expenditure,-10708.0
+AAPL,2021,Cash Flow,Capital Expenditure,-11085.0
+AAPL,2024,Cash Flow,Investing Cash Flow,2935.0
+AAPL,2023,Cash Flow,Investing Cash Flow,3705.0
+AAPL,2022,Cash Flow,Investing Cash Flow,-22354.0
+AAPL,2021,Cash Flow,Investing Cash Flow,-1280.0
+AAPL,2024,Cash Flow,Financing Cash Flow,-121983.0
+AAPL,2023,Cash Flow,Financing Cash Flow,-108488.0
+AAPL,2022,Cash Flow,Financing Cash Flow,-110749.0
+AAPL,2021,Cash Flow,Financing Cash Flow,-93353.0
+AAPL,2024,Cash Flow,Free Cash Flow,108807.0
+AAPL,2023,Cash Flow,Free Cash Flow,99584.0
+AAPL,2022,Cash Flow,Free Cash Flow,111443.0
+AAPL,2021,Cash Flow,Free Cash Flow,92953.0
+AAPL,2024,Cash Flow,Dividends Paid,-15234.0
+AAPL,2023,Cash Flow,Dividends Paid,-15025.0
+AAPL,2022,Cash Flow,Dividends Paid,-14841.0
+AAPL,2021,Cash Flow,Dividends Paid,-14467.0
+AAPL,2024,Cash Flow,Share Repurchases,-94949.0
+AAPL,2023,Cash Flow,Share Repurchases,-77550.0
+AAPL,2022,Cash Flow,Share Repurchases,-89402.0
+AAPL,2021,Cash Flow,Share Repurchases,-85971.0
+AAPL,2024,Cash Flow,Change in Cash,-794.0
+AAPL,2023,Cash Flow,Change in Cash,5760.0
+AAPL,2022,Cash Flow,Change in Cash,-10952.0
+AAPL,2021,Cash Flow,Change in Cash,9327.0
