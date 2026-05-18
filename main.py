@@ -59,8 +59,11 @@ def build_summary() -> None:
             continue
         try:
             inc = pd.read_excel(xlsx, sheet_name="Income Statement", index_col=0)
+            inc = inc.loc[~inc.index.duplicated(keep='first')]
             bal = pd.read_excel(xlsx, sheet_name="Balance Sheet", index_col=0)
+            bal = bal.loc[~bal.index.duplicated(keep='first')]
             cf  = pd.read_excel(xlsx, sheet_name="Cash Flow Statement", index_col=0)
+            cf = cf.loc[~cf.index.duplicated(keep='first')]
         except Exception:
             continue
 

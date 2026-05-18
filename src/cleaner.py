@@ -20,7 +20,9 @@ def transpose_and_clean(df: pd.DataFrame) -> pd.DataFrame:
 
     Sorts by year descending (most recent first) and converts to millions.
     """
-    df = to_millions(df.copy())
+    df = df.copy()
+    df = df.loc[~df.index.duplicated(keep='first')]
+    df = to_millions(df)
     df = df.transpose()
     df.index = pd.to_datetime(df.index)
     df = df.sort_index(ascending=False)
@@ -125,7 +127,9 @@ def clean_income_statement(
     """
     if raw is None or raw.empty:
         return None
-    df = transpose_and_clean(raw)
+    df = raw.copy()
+    df = df.loc[~df.index.duplicated(keep='first')]
+    df = transpose_and_clean(df)
     df = _rename_columns(df, INCOME_LABELS)
 
     desired = [
@@ -151,7 +155,9 @@ def clean_balance_sheet(raw: pd.DataFrame) -> pd.DataFrame | None:
     """Clean and standardise a balance sheet."""
     if raw is None or raw.empty:
         return None
-    df = transpose_and_clean(raw)
+    df = raw.copy()
+    df = df.loc[~df.index.duplicated(keep='first')]
+    df = transpose_and_clean(df)
     df = _rename_columns(df, BALANCE_LABELS)
 
     desired = [
@@ -179,7 +185,9 @@ def clean_cash_flow_statement(raw: pd.DataFrame) -> pd.DataFrame | None:
     """Clean and standardise a cash-flow statement."""
     if raw is None or raw.empty:
         return None
-    df = transpose_and_clean(raw)
+    df = raw.copy()
+    df = df.loc[~df.index.duplicated(keep='first')]
+    df = transpose_and_clean(df)
     df = _rename_columns(df, CASHFLOW_LABELS)
 
     desired = [

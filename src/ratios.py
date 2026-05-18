@@ -20,6 +20,9 @@ def profitability_ratios(
     income: pd.DataFrame, balance: pd.DataFrame | None = None
 ) -> pd.DataFrame:
     """Compute profitability ratios from the income statement."""
+    income = income.loc[~income.index.duplicated(keep='first')]
+    if balance is not None:
+        balance = balance.loc[~balance.index.duplicated(keep='first')]
     ratios = pd.DataFrame(index=income.index)
 
     # Net Profit Margin = Net Income / Revenue
@@ -72,6 +75,7 @@ def profitability_ratios(
 
 def liquidity_ratios(balance: pd.DataFrame) -> pd.DataFrame:
     """Compute liquidity ratios from the balance sheet."""
+    balance = balance.loc[~balance.index.duplicated(keep='first')]
     ratios = pd.DataFrame(index=balance.index)
 
     # Current Ratio = Current Assets / Current Liabilities
@@ -95,6 +99,7 @@ def liquidity_ratios(balance: pd.DataFrame) -> pd.DataFrame:
 
 def leverage_ratios(balance: pd.DataFrame) -> pd.DataFrame:
     """Compute leverage / solvency ratios from the balance sheet."""
+    balance = balance.loc[~balance.index.duplicated(keep='first')]
     ratios = pd.DataFrame(index=balance.index)
 
     # Debt-to-Equity = Total Liabilities / Total Equity
@@ -125,6 +130,8 @@ def efficiency_ratios(
     income: pd.DataFrame, balance: pd.DataFrame
 ) -> pd.DataFrame:
     """Compute efficiency / turnover ratios."""
+    income = income.loc[~income.index.duplicated(keep='first')]
+    balance = balance.loc[~balance.index.duplicated(keep='first')]
     ratios = pd.DataFrame(index=income.index)
 
     # Asset Turnover = Revenue / Avg Total Assets

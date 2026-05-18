@@ -146,9 +146,13 @@ def export_powerbi() -> None:
     dim_date.to_csv(POWERBI_DATA_DIR / "dim_date.csv", index=False)
 
     if all_financials:
+        all_financials = [df.loc[~df.index.duplicated(keep='first')].reset_index(drop=True)
+                          for df in all_financials]
         fact_fin = pd.concat(all_financials, ignore_index=True)
         fact_fin.to_csv(POWERBI_DATA_DIR / "fact_financials.csv", index=False)
     if all_ratios:
+        all_ratios = [df.loc[~df.index.duplicated(keep='first')].reset_index(drop=True)
+                      for df in all_ratios]
         fact_rat = pd.concat(all_ratios, ignore_index=True)
         fact_rat.to_csv(POWERBI_DATA_DIR / "fact_ratios.csv", index=False)
 

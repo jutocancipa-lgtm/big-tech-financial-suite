@@ -81,9 +81,27 @@ def load_financials(ticker: str) -> dict[str, Any]:
     """Load and clean all three statements + ratios for a ticker."""
     raw = fetch_all(ticker)
     result: dict[str, Any] = {}
-    result["income"] = clean_income_statement(raw.get("income"))
-    result["balance"] = clean_balance_sheet(raw.get("balance"))
-    result["cashflow"] = clean_cash_flow_statement(raw.get("cashflow"))
+    for key, cleaner in [("income", clean_income_statement),
+                          ("balance", clean_balance_sheet),
+                          ("cashflow", clean_cash_flow_statement)]:
+        try:
+            cleaned = cleaner(raw.get(key))
+            if cleaned is not None:
+                cleaned = cleaned.loc[~cleaned.index.duplicated(keep='first')]
+            result[key] = cleaned
+        except ValueError as e:
+            if "duplicate labels" in str(e):
+                df = raw.get(key)
+                if df is not None:
+                    df = df.loc[~df.index.duplicated(keep='first')]
+                    cleaned = cleaner(df)
+                    if cleaned is not None:
+                        cleaned = cleaned.loc[~cleaned.index.duplicated(keep='first')]
+                    result[key] = cleaned
+                else:
+                    result[key] = None
+            else:
+                result[key] = None
     result["ratios"] = compute_all(
         result["income"], result["balance"], result["cashflow"]
     )
